@@ -15,7 +15,7 @@ of what you'll find here are honest first projects rather than polished products
 - 🎯 Aiming to contribute to real-world AI projects from India
 
 **Tools I'm learning**
-`C` · `Python` · `HTML` · `Git & GitHub`
+`C` · `Python` · `HTML` · `Git & GitHub` . `Java`
 
 **Say hello**
 - 📫 krishchay2008@gmail.com
