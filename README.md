@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Krishchay 👋</h1>
-<p align="center">First-year BTech CSE student from India — learning to build, one small project at a time.</p>
+<p align="center">Second-year BTech CSE student from India — learning to build, one small project at a time.</p>
 
 ---
 
